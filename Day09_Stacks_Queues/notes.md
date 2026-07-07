@@ -130,13 +130,7 @@ O(n)
 
 ---
 
-# ⚠ Common Mistakes
 
-- Forgetting to pop after finding the answer.
-- Confusing indices with values.
-- Not processing remaining elements after traversal.
-
----
 
 # 📚 Patterns Learned
 
@@ -148,18 +142,7 @@ O(n)
 
 ---
 
-# 🧠 ICPC Contest Tips
 
-If a problem mentions
-
-- nearest greater
-- nearest smaller
-- histogram
-- parentheses
-
-think **Stack** before trying nested loops.
-
----
 
 # ⭐ Quick Revision
 
