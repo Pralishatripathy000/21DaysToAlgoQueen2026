@@ -144,13 +144,7 @@ O(1)
 - reverse()
 - vector
 
----
 
-# ⚠ Common Mistakes
-
-- Sorting in ascending order instead of descending.
-- Ignoring problem constraints while applying greedy.
-- Assuming greedy works without proving the local choice.
 
 ---
 
@@ -162,20 +156,7 @@ O(1)
 
 ✅ Resource Allocation
 
----
 
-# 🧠 ICPC Contest Tips
-
-Whenever the statement includes
-
-- maximize
-- minimize
-- choose
-- schedule
-
-always ask:
-
-> Can sorting help me make the best local decision?
 
 ---
 
