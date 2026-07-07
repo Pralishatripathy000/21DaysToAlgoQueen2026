@@ -143,14 +143,6 @@ O(n)
 - recursion
 - swap()
 
----
-
-# ⚠ Common Mistakes
-
-- Forgetting to undo changes during backtracking.
-- Missing the base case.
-- Passing vectors by value unnecessarily.
-- Not pruning invalid states early.
 
 ---
 
@@ -164,25 +156,6 @@ O(n)
 
 ---
 
-# 🧠 ICPC Contest Tips
-
-Whenever a problem asks to generate
-
-- all subsets
-- all permutations
-- all valid combinations
-
-think
-
-**Backtracking**
-
-Always define
-
-1. Decision
-2. Constraint
-3. Base Case
-
-before writing any recursive code.
 
 ---
 
